@@ -1,2 +1,15 @@
 
-secrets.txt
+# specific files
+# secrets.txt
+# config.json
+
+
+# specific folders
+# secrets/
+# build/
+# dist/
+
+# Ignore files with these extensions
+*.txt
+*.log
+*.tmp
