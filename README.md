@@ -17,3 +17,5 @@ Instructions for using the project.
 
 
 ### This is a test FEATURE. 
+
+Made fix from DEV branch. 
